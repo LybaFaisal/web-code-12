@@ -1,0 +1,38 @@
+#div1{
+    background-color: #B6BBC4;
+    color: #161A30;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 40px 0px 0px 0px;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: aqua;
+}
+a:visited{
+    color:darkgreen
+}
+a:hover{
+    color: azure;
+}
+#div2{
+    font-size: 23px;
+    margin: 160px 0px 0px 70px;
+    color: #31304D;
+}
+#div3{
+    color: #67729D;
+    margin: 0px 0px 0px 70px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div4{
+    margin: 0px 0px 0px 70px;
+}
+#img{
+    float: right;
+}
+
+    
